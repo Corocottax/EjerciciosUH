@@ -21,6 +21,7 @@ function findLongestWord(vengadores) {
                 }
                 
                 numLetras = j;
+                
             }
             
         }
